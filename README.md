@@ -13,5 +13,5 @@
 Run this python script - `python exploit.py` with all necessary dependencies and modules installed by `pip` or `pip3`\
 Use the web-address, for e.g. `http://10.10.10.10:80`\
 Do mention the `http or https` tag, IP, and the Port where the server is running on\
-All rights goes to the original author, I've just modified it to be easy to use\
+All rights goes to the original author, I've just modified it to be easy to use :)
 
