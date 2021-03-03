@@ -1,6 +1,6 @@
 # Fuel-CMS-RCE
 ## CVE : CVE-2018-16763
-## Exploit Title: fuelCMS 1.4.1 - Remote Code Execution
+## Exploit Title: Fuel CMS 1.4.1 - Remote Code Execution
 
 #### Date: 2019-07-19
 #### Exploit Author: 0xd0ff9
